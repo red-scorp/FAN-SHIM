@@ -21772,7 +21772,7 @@ CONN_04
 <sheet>
 <plain>
 <text x="256.54" y="7.62" size="2.54" layer="94">1.0</text>
-<text x="198.12" y="7.62" size="2.54" layer="94">PI-FANZS-0010</text>
+<text x="198.12" y="7.62" size="2.54" layer="94">PI-FANZ30S-0010</text>
 <text x="165.1" y="25.4" size="2.54" layer="94">Pi Zero sized FAN-SHIM for Pi's 40-pin extension slot
 (c) Andriy Golovnya</text>
 <text x="116.84" y="121.92" size="2.54" layer="94">Right connector
