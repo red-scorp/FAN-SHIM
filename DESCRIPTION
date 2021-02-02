@@ -1,4 +1,4 @@
-Raspberry Pi zero 40-pin <b>DOT-zero30-SHIM</b> mini-HAT.
+Raspberry Pi zero 40-pin <b>DOT-zero30-SHIM</b> mini-HAT.<br/>
 Features:
 <ul>
 <li>locked Pi headers</li>
@@ -8,7 +8,7 @@ Features:
 <li>Pi zero board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>
-Raspberry Pi A+/B+ 40-pin <b>DOT-plus40-SHIM</b> mini-HAT.
+Raspberry Pi A+/B+ 40-pin <b>DOT-plus40-SHIM</b> mini-HAT.<br/>
 Features:
 <ul>
 <li>locked Pi headers</li>
