@@ -823,6 +823,7 @@ UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/NC7WZ17P6X.lbr"
 UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/STM32.lbr"
 UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/SnapEDA-Library.lbr"
 UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/_my_buttons.lbr"
+UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/_my_fans.lbr"
 UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/_my_fiducia.lbr"
 UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/_my_jumpers.lbr"
 UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/_my_locked_connectors.lbr"
@@ -916,12 +917,11 @@ UsedLibrary="D:/SRC/pib_eagle_libraries/PiB_sensors.lbr"
 UsedLibrary="D:/SRC/pib_eagle_libraries/PiB_sound.lbr"
 UsedLibrary="D:/SRC/pib_eagle_libraries/PiB_switches.lbr"
 UsedLibrary="D:/SRC/pib_eagle_libraries/PiB_transistors.lbr"
-UsedLibrary="C:/Users/AG/Documents/EAGLE/libraries/_my_fans.lbr"
 
 [Win_1]
 Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="2048 1080"
+Screen="1920 1080"
 Window="Win_1"

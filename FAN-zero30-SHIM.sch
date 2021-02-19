@@ -20271,27 +20271,27 @@ This is just like the LOCK variant in that the holes are staggared by 5 mil, but
 <hole x="16" y="-16" drill="3"/>
 <hole x="0" y="0" drill="39"/>
 </package>
-<package name="FAN30H">
-<wire x1="-15" y1="15" x2="15" y2="15" width="0.127" layer="51"/>
-<wire x1="15" y1="15" x2="15" y2="-15" width="0.127" layer="51"/>
-<wire x1="15" y1="-15" x2="-15" y2="-15" width="0.127" layer="51"/>
-<wire x1="-15" y1="-15" x2="-15" y2="15" width="0.127" layer="51"/>
-<hole x="-12.25" y="12.25" drill="3"/>
-<hole x="12.25" y="12.25" drill="3"/>
-<hole x="-12.25" y="-12.25" drill="3"/>
-<hole x="12.25" y="-12.25" drill="3"/>
-<circle x="0" y="0" radius="14.5" width="0.127" layer="51"/>
-</package>
 <package name="FAN30HO">
 <wire x1="-15" y1="15" x2="15" y2="15" width="0.127" layer="51"/>
 <wire x1="15" y1="15" x2="15" y2="-15" width="0.127" layer="51"/>
 <wire x1="15" y1="-15" x2="-15" y2="-15" width="0.127" layer="51"/>
 <wire x1="-15" y1="-15" x2="-15" y2="15" width="0.127" layer="51"/>
-<hole x="-12.25" y="12.25" drill="3"/>
-<hole x="12.25" y="12.25" drill="3"/>
-<hole x="-12.25" y="-12.25" drill="3"/>
-<hole x="12.25" y="-12.25" drill="3"/>
+<hole x="-12" y="12" drill="3"/>
+<hole x="12" y="12" drill="3"/>
+<hole x="-12" y="-12" drill="3"/>
+<hole x="12" y="-12" drill="3"/>
 <hole x="0" y="0" drill="29"/>
+</package>
+<package name="FAN30H">
+<wire x1="-15" y1="15" x2="15" y2="15" width="0.127" layer="51"/>
+<wire x1="15" y1="15" x2="15" y2="-15" width="0.127" layer="51"/>
+<wire x1="15" y1="-15" x2="-15" y2="-15" width="0.127" layer="51"/>
+<wire x1="-15" y1="-15" x2="-15" y2="15" width="0.127" layer="51"/>
+<hole x="-12" y="12" drill="3"/>
+<hole x="12" y="12" drill="3"/>
+<hole x="-12" y="-12" drill="3"/>
+<hole x="12" y="-12" drill="3"/>
+<circle x="0" y="0" radius="14.5" width="0.127" layer="51"/>
 </package>
 </packages>
 <symbols>
