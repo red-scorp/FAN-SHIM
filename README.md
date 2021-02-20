@@ -75,6 +75,37 @@ Pins Configuration:
 
 CAM files are available.
 
+## FAN-zero20-SHIM
+
+Raspberry Pi zero 40-pin **FAN-zero20-SHIM** mini-HAT.
+
+Preview:
+
+![FAN-zero20-SHIM preview](FAN-zero20-SHIM.png)
+
+[Schematics in PDF format](FAN-zero20-SHIM.pdf)
+
+Features:
+
+- locked Pi headers
+- 20mm axial fan
+- 5V and 3.3V fan power selection
+- fan tacho and PWM signal selection
+- Pi zero board style
+- can be used as SHIM (no headers) or HAT (with headers)
+
+Pins Configuration:
+
+|Fan Pin |Option 1 |Option 2 |
+|--------|---------|---------|
+|Vfan    |5V\*     |3.3V     |
+|tacho   |GPIO16   |GPIO4    |
+|PWM     |GPIO12   |GPIO13   |
+
+\*) the pin is connected by default.
+
+CAM files are available.
+
 ## FAN-plus40-SHIM
 
 Raspberry Pi A+/B+ 40-pin **FAN-plus40-SHIM** mini-HAT.
