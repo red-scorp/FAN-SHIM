@@ -18,3 +18,13 @@ Features:
 <li>Pi A+/B+ board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>
+Raspberry Pi A+/B+ 40-pin <b>DOT-plus30-SHIM</b> mini-HAT.<br/>
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>30mm axial fan</li>
+<li>5V and 3.3V fan power selection</li>
+<li>fan tacho and PWM signal selection</li>
+<li>Pi A+/B+ board style</li>
+<li>can be used as SHIM (no headers) or HAT (with headers)</li>
+</ul>

@@ -75,6 +75,37 @@ Pins Configuration:
 
 CAM files are available.
 
+## FAN-plus30-SHIM
+
+Raspberry Pi A+/B+ 40-pin **FAN-plus30-SHIM** mini-HAT.
+
+Preview:
+
+![FAN-plus40-SHIM preview](FAN-plus30-SHIM.png)
+
+[Schematics in PDF format](FAN-plus30-SHIM.pdf)
+
+Features:
+
+- locked Pi headers
+- 30mm axial fan
+- 5V and 3.3V fan power selection
+- fan tacho and PWM signal selection
+- Pi A+/B+ board style
+- can be used as SHIM (no headers) or HAT (with headers)
+
+Pins Configuration:
+
+|Fan Pin |Option 1 |Option 2 |
+|--------|---------|---------|
+|Vfan    |5V\*     |3.3V     |
+|tacho   |GPIO16   |GPIO4    |
+|PWM     |GPIO12   |GPIO13   |
+
+\*) the pin is connected by default.
+
+CAM files are available.
+
 ## How to help
 
 Your contributions as code, resources or finances are welcome!
