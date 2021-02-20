@@ -8,6 +8,16 @@ Features:
 <li>Pi zero board style</li>
 <li>can be used as SHIM (no headers) or HAT (with headers)</li>
 </ul>
+Raspberry Pi zero 40-pin <b>DOT-zero25-SHIM</b> mini-HAT.<br/>
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>25mm axial fan</li>
+<li>5V and 3.3V fan power selection</li>
+<li>fan tacho and PWM signal selection</li>
+<li>Pi zero board style</li>
+<li>can be used as SHIM (no headers) or HAT (with headers)</li>
+</ul>
 Raspberry Pi A+/B+ 40-pin <b>DOT-plus40-SHIM</b> mini-HAT.<br/>
 Features:
 <ul>
