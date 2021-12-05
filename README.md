@@ -19,9 +19,9 @@ Raspberry Pi zero 40-pin **FAN-zero30-SHIM** mini-HAT.
 
 Preview:
 
-![FAN-zero30-SHIM preview](FAN-zero30-SHIM.png)
+![FAN-zero30-SHIM preview](img/FAN-zero30-SHIM.png)
 
-[Schematics in PDF format](FAN-zero30-SHIM.pdf)
+[Schematics in PDF format](doc/FAN-zero30-SHIM.pdf)
 
 Features:
 
@@ -50,9 +50,9 @@ Raspberry Pi zero 40-pin **FAN-zero25-SHIM** mini-HAT.
 
 Preview:
 
-![FAN-zero25-SHIM preview](FAN-zero25-SHIM.png)
+![FAN-zero25-SHIM preview](img/FAN-zero25-SHIM.png)
 
-[Schematics in PDF format](FAN-zero25-SHIM.pdf)
+[Schematics in PDF format](doc/FAN-zero25-SHIM.pdf)
 
 Features:
 
@@ -81,9 +81,9 @@ Raspberry Pi zero 40-pin **FAN-zero20-SHIM** mini-HAT.
 
 Preview:
 
-![FAN-zero20-SHIM preview](FAN-zero20-SHIM.png)
+![FAN-zero20-SHIM preview](img/FAN-zero20-SHIM.png)
 
-[Schematics in PDF format](FAN-zero20-SHIM.pdf)
+[Schematics in PDF format](doc/FAN-zero20-SHIM.pdf)
 
 Features:
 
@@ -112,9 +112,9 @@ Raspberry Pi A+/B+ 40-pin **FAN-plus40-SHIM** mini-HAT.
 
 Preview:
 
-![FAN-plus40-SHIM preview](FAN-plus40-SHIM.png)
+![FAN-plus40-SHIM preview](img/FAN-plus40-SHIM.png)
 
-[Schematics in PDF format](FAN-plus40-SHIM.pdf)
+[Schematics in PDF format](doc/FAN-plus40-SHIM.pdf)
 
 Features:
 
@@ -143,9 +143,9 @@ Raspberry Pi A+/B+ 40-pin **FAN-plus30-SHIM** mini-HAT.
 
 Preview:
 
-![FAN-plus30-SHIM preview](FAN-plus30-SHIM.png)
+![FAN-plus30-SHIM preview](img/FAN-plus30-SHIM.png)
 
-[Schematics in PDF format](FAN-plus30-SHIM.pdf)
+[Schematics in PDF format](doc/FAN-plus30-SHIM.pdf)
 
 Features:
 
