@@ -8,11 +8,6 @@ It's generally recommended to use active coolers, specially if you run Pi's CPU 
 
 This boards are designed to be used with standard axial funs with Pi's "Dupont" and standard PC's "Molex" connectors.
 
-Some useful links:
-
-- [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
-- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Pi's HAT specification.
-
 ## FAN-zero30-SHIM
 
 Raspberry Pi zero 40-pin **FAN-zero30-SHIM** mini-HAT.
@@ -167,6 +162,11 @@ Pins Configuration:
 \*) the pin is connected by default.
 
 CAM files are available.
+
+## Links
+
+- [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
+- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Pi's HAT specification.
 
 ## How to help
 
